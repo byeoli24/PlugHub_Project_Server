@@ -13,9 +13,9 @@ const port = 18021;
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(session({
-  secret: 'testserver',	// 원하는 문자 입력
-  resave: false,
-  saveUninitialized: true,
+  secret: 
+  resave: 
+  saveUninitialized:
   store:new FileStore(),
 }))
 
