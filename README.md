@@ -4,10 +4,9 @@
 처음 해본 백엔드 작업이라 부족한 점은 많았지만 많은 경험을 쌓을 수 있었습니다. 
 
 ---------------------------------------
-
 <br>
 아래의 이미지는 해당 프로젝트 당시에 제작했던 PPT 중 일부입니다.
-
+<br>
 ![슬라이드2](https://github.com/byeoli24/PlugHub_Project_Server/assets/136569313/6a2f5710-bfc0-4764-af75-0f69c105e85f)
 
 ![슬라이드4](https://github.com/byeoli24/PlugHub_Project_Server/assets/136569313/d5f91a93-4631-4d63-aff0-5522e7b6ce7d)
