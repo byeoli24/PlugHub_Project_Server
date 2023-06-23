@@ -5,6 +5,7 @@
 
 <br>
 아래의 이미지는 해당 프로젝트 당시에 제작했던 PPT 중 일부입니다.
+***
 
 ![슬라이드2](https://github.com/byeoli24/PlugHub_Project_Server/assets/136569313/6a2f5710-bfc0-4764-af75-0f69c105e85f)
 
