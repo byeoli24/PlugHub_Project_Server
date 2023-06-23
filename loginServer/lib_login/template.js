@@ -1,4 +1,5 @@
 module.exports = {
+  //JS 코드를 사용한 동적인 HTML 생성 
   HTML: function (title, body, authStatusUI) {
     return `
     <!doctype html>
