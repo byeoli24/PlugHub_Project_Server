@@ -3,7 +3,7 @@ const mysql = require('mysql');
 const config = require('./config');
 
 const app = express();
-const port = process.env.PORT || 7852;
+const port = process.env.PORT || 3000;
 
 // 데이터베이스 연결 설정
 const connection = mysql.createConnection(config.dbConfig);
