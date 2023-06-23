@@ -11,6 +11,8 @@
 
 ![슬라이드4](https://github.com/byeoli24/PlugHub_Project_Server/assets/136569313/d5f91a93-4631-4d63-aff0-5522e7b6ce7d)
 
+![슬라이드5](https://github.com/byeoli24/PlugHub_Project_Server/assets/136569313/7b8fc83f-17e8-4887-9cf1-b2049a8afe4a)
+
 ![슬라이드6](https://github.com/byeoli24/PlugHub_Project_Server/assets/136569313/b77d4ac2-7a94-4775-b6f5-30da7fe342b1)
 
 ![슬라이드7](https://github.com/byeoli24/PlugHub_Project_Server/assets/136569313/93e8e755-4842-47b1-8f92-88990d05df56)
